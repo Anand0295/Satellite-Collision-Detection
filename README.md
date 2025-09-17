@@ -1,7 +1,6 @@
 # Satellite-Collision-Detection
 
-```
-# Advanced Satellite Collision Detection and Avoidance System
+# Satellite Collision Detection and Avoidance System
 
 [![NASA](https://img.shields.io/badge/NASA-0A0A0A?style=for-the-badge&logo=nasa&logoColor=white)](https://www.nasa.gov) 
 [![Mars Society](https://img.shields.io/badge/Mars_Society-FF4500?style=for-the-badge&logo=mars&logoColor=white)](https://www.marssociety.org) 
